@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-russo-one: "Russo One";
+    --font-lexend-exa: "Lexend Exa";
+  
+    /* font sizes */
+    --font-size-xl: 20px;
+    --font-size-base: 16px;
+    --font-size-17xl: 36px;
+    --font-size-5xl: 24px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-whitesmoke-100: #f5f5f5;
+    --color-whitesmoke-200: #f3f3f3;
+    --color-whitesmoke-300: #e9e9e9;
+    --color-gainsboro: rgba(217, 217, 217, 0);
+    --color-darkslategray-100: #363636;
+    --color-maroon: #8b0d0d;
+    --color-black: #000;
+    --color-lightgray: #cdcccc;
+    --color-dimgray: #53554f;
+    --color-palegoldenrod: #d6e8b0;
+  
+    /* Gaps */
+    --gap-1411xs: -1398px;
+    --gap-30xl: 49px;
+    --gap-84xl-5: 103.5px;
+    --gap-601xl: 620px;
+  
+    /* Border radiuses */
+    --br-3xs: 10px;
+    --br-base: 16px;
+    --br-25xl: 44px;
+    --br-12xl: 31px;
+    --br-13xl: 32px;
+    --br-7xs: 6px;
+  }
+  
